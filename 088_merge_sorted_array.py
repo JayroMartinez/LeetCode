@@ -14,4 +14,4 @@ if __name__ == "__main__":
     n = 3
 
     Solution().merge(nums1, m, nums2, n)
-    print(nums1)  # Output should be [1, 2, 2, 3, 5, 6]
+    print(nums1)
