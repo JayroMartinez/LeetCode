@@ -3,7 +3,9 @@ name: Update README
 on:
   push:
     paths:
-      - '*.py'
+      - 'Solutions/*.py'
+      - 'Solutions/*.go'
+      - 'generate_readme.py'
 
 permissions:
   contents: write
