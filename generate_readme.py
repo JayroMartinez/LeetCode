@@ -24,7 +24,7 @@ def extract_info(filename):
     return None
 
 def main():
-    files = [f for f in os.listdir('.') if f.endswith('.py')]
+    files = [f for f in os.listdir('.') if f.endswith(('.py', '.go'))]
     problems = []
 
     for f in files:
