@@ -42,7 +42,7 @@ def main():
     with open("README.md", "w") as f:
         f.write(README_HEADER)
         for number, title, link, filename, language in problems:
-            f.write(f"| {number} | {title} | [🔗]({link}) | `{filename}` | {language} |\n")
+            f.write(f"| {number} | {title} | [🔗]({link}) | [{filename}](Solutions/{filename}) | {language} |\n")
 
 if __name__ == "__main__":
     main()
