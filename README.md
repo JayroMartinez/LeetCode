@@ -18,10 +18,17 @@ This repository contains my personal solutions to problems from [LeetCode](https
 | 27 | Remove Element | [🔗](https://leetcode.com/problems/remove-element/) | [027_remove_element.go](Solutions/027_remove_element.go) | Go |
 | 28 | Find The Index Of The First Occurrence In A String | [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [028_find_the_index_of_the_first_occurrence_in_a_string.go](Solutions/028_find_the_index_of_the_first_occurrence_in_a_string.go) | Go |
 | 68 | Text Justification | [🔗](https://leetcode.com/problems/text-justification/) | [068_text_justification.go](Solutions/068_text_justification.go) | Go |
+| 76 | Minimum Window Substring | [🔗](https://leetcode.com/problems/minimum-window-substring/) | [076_minimum_window_substring.go](Solutions/076_minimum_window_substring.go) | Go |
 | 80 | Remove Duplicates From Sorted Array Ii | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [080_remove_duplicates_from_sorted_array_II.go](Solutions/080_remove_duplicates_from_sorted_array_II.go) | Go |
 | 88 | Merge Sorted Array | [🔗](https://leetcode.com/problems/merge-sorted-array/) | [088_merge_sorted_array.py](Solutions/088_merge_sorted_array.py) | Python |
 | 122 | Best Time To Buy And Sell Stock Ii | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [122_best_time_to_buy_and_sell_stock_II.go](Solutions/122_best_time_to_buy_and_sell_stock_II.go) | Go |
+| 125 | Valid Palindrome | [🔗](https://leetcode.com/problems/valid-palindrome/) | [125_valid_palindrome.go](Solutions/125_valid_palindrome.go) | Go |
 | 150 | Evaluate Reverse Polish Notation | [🔗](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [150_evaluate_reverse_polish_notation.py](Solutions/150_evaluate_reverse_polish_notation.py) | Python |
+| 167 | Two Sum Ii Input Array Is Sorted | [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [167_two_sum_II_input_array_is_sorted.go](Solutions/167_two_sum_II_input_array_is_sorted.go) | Go |
+| 209 | Minimum Size Subarray Sum | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | [209_minimum_size_subarray_sum.go](Solutions/209_minimum_size_subarray_sum.go) | Go |
 | 238 | Product Of Array Except Self | [🔗](https://leetcode.com/problems/product-of-array-except-self/) | [238_product_of_array_except_self.go](Solutions/238_product_of_array_except_self.go) | Go |
 | 274 | H Index | [🔗](https://leetcode.com/problems/h-index/) | [274_h_index.go](Solutions/274_h_index.go) | Go |
+| 289 | Game Of Life | [🔗](https://leetcode.com/problems/game-of-life/) | [289_game_of_life.go](Solutions/289_game_of_life.go) | Go |
+| 303 | Substring With Concatenation Of All Words | [🔗](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [303_substring_with_concatenation_of_all_words.go](Solutions/303_substring_with_concatenation_of_all_words.go) | Go |
 | 380 | Insert Delete Getrandom O1 | [🔗](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [380_insert_delete_getRandom_O1.go](Solutions/380_insert_delete_getRandom_O1.go) | Go |
+| 392 | Is Subsequence | [🔗](https://leetcode.com/problems/is-subsequence/) | [392_is_subsequence.go](Solutions/392_is_subsequence.go) | Go |
